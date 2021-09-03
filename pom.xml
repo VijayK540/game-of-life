@@ -210,11 +210,11 @@
 
 		<repository>
 			<id>VBTECH</id>
-			<url>http://192.168.72.11:8081/#admin/repository/repositories:VBTECH/</url>
+			<url>http://192.168.72.11:8081/repository/VBTECH/</url>
 		</repository>
 		<snapshotRepository>
 			<id>VBTECH1</id>
-			<url>http://192.168.72.11:8081/#admin/repository/repositories:VBTECH1/</url>
+			<url>http://192.168.72.11:8081/repository/VBTECH/1/</url>
 		</snapshotRepository>		
   </distributionManagement>
     <modules>
