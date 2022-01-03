@@ -209,12 +209,12 @@
     <distributionManagement>
 
 		<repository>
-			<id>VBTECH</id>
-			<url>http://192.168.72.11:8081/repository/VBTECH/</url>
+			<id>vbtech-repo</id>
+			<url>http://3.110.223.30:8081/nexus/content/repositories/vbtech-repo/</url>
 		</repository>
 		<snapshotRepository>
-			<id>VBTECH1</id>
-			<url>http://192.168.72.11:8081/repository/VBTECH1/</url>
+			<id>vbtech-snapshot</id>
+			<url>http://3.110.223.30:8081/nexus/content/repositories/vbtech-snapshot/</url>
 		</snapshotRepository>		
   </distributionManagement>
     <modules>
